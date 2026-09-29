@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes e-commerce user behavior using SQL to understand how users move through the conversion funnel — from viewing a page to completing a purchase.
+This project analyzes e-commerce user behavior using SQL to understand how users move through the conversion funnel, from viewing a page to completing a purchase.
 
 The analysis focuses on conversion rates, traffic sources, and the time users take to move through different stages of the purchasing journey.
 
