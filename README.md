@@ -6,7 +6,7 @@ This project analyzes e-commerce user behavior using SQL to understand how users
 
 The analysis focuses on conversion rates, traffic sources, and the time users take to move through different stages of the purchasing journey.
 
-## 🎯 Business Questions
+## Business Questions
 
 This project answers the following questions:
 
@@ -17,7 +17,7 @@ This project answers the following questions:
 5. How long does it take users to move from page view to cart and from cart to purchase?
 6. Where are the major drop-offs in the customer journey?
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * SQL Server
 * T-SQL
@@ -28,7 +28,7 @@ This project answers the following questions:
 * Window Functions
 * GitHub
 
-## 📊 Funnel Stages
+## Funnel Stages
 
 The analysis follows these main stages:
 
@@ -36,18 +36,17 @@ The analysis follows these main stages:
 
 These stages help identify where users continue their journey and where potential drop-offs occur.
 
-## 📁 Dataset
+## Dataset
 
 The project uses a `user_events` table containing user interaction events.
 
 ### Main Fields
 
-| Column           | Description                           |
-| ---------------- | ------------------------------------- |
-| `user_id`        | Unique identifier for the user        |
-| `event_type`     | Type of user event                    |
-| `event_date`     | Date and time of the event            |
-| `traffic_source` | Source through which the user arrived |
+ Column                                      
+ `user_id`                
+ `event_type`                      
+ `event_date`              
+ `traffic_source` 
 
 ### Event Types
 
@@ -57,7 +56,7 @@ The project uses a `user_events` table containing user interaction events.
 * `payment_info`
 * `purchase`
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Funnel Stage Analysis
 
@@ -93,26 +92,9 @@ The analysis can help identify:
 * Areas where the purchasing journey may be improved
 * How quickly users typically move from browsing to purchasing
 
-> Final insights are based on the actual results generated from the dataset.
 
-## 📂 Project Structure
 
-```text
-ecommerce-conversion-funnel-analysis/
-│
-├── README.md
-│
-├── sql/
-│   └── conversion_funnel_analysis.sql
-│
-├── data/
-│   └── user_events.csv
-│
-└── images/
-    ├── funnel_analysis.png
-    ├── traffic_source_analysis.png
-    └── conversion_time_analysis.png
-```
+
 
 ## 🎯 Project Objective
 
