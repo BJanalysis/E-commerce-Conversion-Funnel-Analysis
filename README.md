@@ -83,25 +83,30 @@ Measured the average time users take to move through the purchasing journey:
 * Cart → Purchase
 * View → Purchase
 
-## 💡 Key Insights
+##  Key Insights
 
-The analysis can help identify:
+- **Overall conversion is 16.6%** (4,268 visitors → 708 purchases in the last 30 days).
+- **Biggest drop-off:** page view → add to cart (only 31.2%). Cart → checkout is the second biggest (71.4%). Payment → purchase is strong at 92.2%.
+- **Email is the best channel:** 33.9% view-to-purchase, about 2x organic and 5x social, from just 10% of traffic.
+- **Social drives 29% of views but only 12% of purchases** (6.7% view-to-purchase). Users browse but rarely add to cart.
+- **Users convert quickly:** about 11 min view → cart, 13 min cart → purchase, 25 min view → purchase, consistent across all sources.
 
-* Major funnel drop-off points
-* Traffic sources with stronger conversion performance
-* Areas where the purchasing journey may be improved
-* How quickly users typically move from browsing to purchasing
+##  Recommendations
+
+1. Invest more in email marketing (highest-converting, lowest-volume channel).
+2. Reduce or rethink social spend; improve landing pages before scaling it.
+3. Optimize product pages to lift view → cart, the largest drop-off.
+4. Reduce cart abandonment with early shipping info, guest checkout, and quick reminder emails.
 
 
 
 
-
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to demonstrate practical SQL and data analysis skills by analyzing e-commerce user journeys and identifying opportunities to better understand conversion behavior.
 
-## 👤 Author
+##  Author
 
-**Your Name**
+**Muhammad Bukhtawar Javed | BJ Analysis**
 
 Data Analyst | SQL | Excel | Power BI | Data Analysis
