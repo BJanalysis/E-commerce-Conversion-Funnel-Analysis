@@ -6,6 +6,9 @@ This project analyzes e-commerce user behavior using SQL to understand how users
 
 The analysis focuses on conversion rates, traffic sources, and the time users take to move through different stages of the purchasing journey.
 
+<img width="1051" height="497" alt="image" src="https://github.com/user-attachments/assets/c4906cb2-91bc-43b1-8797-bec0caac2353" />
+
+
 ## Business Questions
 
 This project answers the following questions:
